@@ -1,9 +1,10 @@
 {
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/c4fccf9d7ad320c47514259f242369eb13444ae4/.Modules/settings.schema.json",
   "templateUrl": "https://github.com/businesscentralapps/tmpsspvVL-AppSource@main",
   "PullRequestTrigger": "pull_request",
   "useCompilerFolder": false,
   "type": "AppSource App",
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/c4fccf9d7ad320c47514259f242369eb13444ae4/.Modules/settings.schema.json",
   "MicrosoftTelemetryConnectionString": "",
-  "doNotPublishApps": false
+  "doNotPublishApps": false,
+  "templateSha": "4e9a21bacdeb351c0e8a471e4feb3359e018b0e5"
 }
